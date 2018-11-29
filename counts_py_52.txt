@@ -1,0 +1,5 @@
+#Name: Sergey Vershinin
+#Date: November’13 2018
+#This is UNIX SHELL commands that counts the number of .py files in current directory.
+
+ls -l | grep ".py" | wc -l

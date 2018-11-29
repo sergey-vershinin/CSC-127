@@ -1,0 +1,13 @@
+# Sergey Vershinin
+# november’ 9 
+# Unix Shell 
+
+
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results
+
+
