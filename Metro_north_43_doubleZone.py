@@ -43,7 +43,7 @@ def computeFare(zone, ticketType, age):
         fare = "3.75"
      
     
-     if (zone == 4 or zone == 6or zone == 7 )and ticketType == "peak":
+     if (zone == 4 or zone == 6 or zone == 7 )and ticketType == "peak":
         fare = "13.50"
         
      if (zone == 5 or zone == 6 or zone == 7 ) and ticketType == "off-peak":
